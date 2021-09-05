@@ -1,6 +1,6 @@
 {
-  "name": "practice_package",
-  "version": "0.0.1",
+  "name": "@suvam_adhikary/practice_package",
+  "version": "0.0.2",
   "description": "practice package for learning",
   "main": "index.js",
   "scripts": {

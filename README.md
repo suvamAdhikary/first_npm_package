@@ -1,29 +1,38 @@
-# Suvam Adhikary
+# Practice Project
 
 
-
-## Student code
-`fw11_059`
+Made project for learning
 
 
----
+![Logo](https://docs.npmjs.com/icons/icon-144x144.png?v=f44ec608ba91563f864a30a276cd9065)
+[npm](https://www.npmjs.com/package/@suvam_adhikary/practice_package)
 
 
-### Education
-- Full Stack Web Development at Masai School (2021 - 2022)
-- B.Tech Mechanical Engineering from Heritage Institute Of Technology
-- Diploma Mechanical Engineering from Acharya Jagadish Chandra Bose Polytechnic
+## Install
+
+```
+npm i @suvam_adhikary/practice_package
+```
 
 
----
+## Usage
 
+```js
+var sum = require("@suvam_adhikary/practice_package");
 
-~ Link 
-[My GitHub](https://github.com/suvamAdhikary)
+var res = sum(5, 10);
 
+console.log(res);
 
----
+// 15
+```
 
+### API
 
-![Masai Logo](https://learn.masaischool.com/img/logo_big.png)
+```
+function sum(a: number, b: number) => number
+```
 
+### Maintainers
+
+~[Suvam Adhikary](https://github.com/suvamAdhikary)
